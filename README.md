@@ -1,6 +1,6 @@
 # 🧬 Cancer-Analytical-Report-in-Europe-For-2023
 
-![Task 34A - Cancer Dashboard](https://github.com/user-attachments/assets/334fa835-f5de-4553-8211-bdb213fa37b0)
+![ Cancer Dashboard](https://github.com/Haruharun/Haruharun-Cancer-Analytical-Report-in-Europe-For-2023/blob/4623d26b01e3b227e31152e3aff1467271e0398c/Screenshot%202025-06-13%20195739.png)
 
 
 
